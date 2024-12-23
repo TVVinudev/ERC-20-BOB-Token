@@ -32,7 +32,7 @@ To interact with the contract, you’ll need:
 - Metamask or any Ethereum wallet: Install a wallet to interact with the Ethereum blockchain.
 
 # License 📜
-This project is licensed under the MIT license - see the LICENSE file for details.
+This project is licensed under the MIT [License](https://vinudevtv1997.wordpress.com/) - see the LICENSE file for details.
 - Ether: You need some ETH in your wallet to pay for gas fees when interacting with the contract.
 
 
