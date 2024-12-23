@@ -32,7 +32,7 @@ To interact with the contract, you’ll need:
 - Metamask or any Ethereum wallet: Install a wallet to interact with the Ethereum blockchain.
 
 # License 📜
-This project is licensed under the MIT [License]([https://vinudevtv1997.wordpress.com/](https://github.com/TVVinudev/ERC-20-BOB-Token/blob/cff6c52ab001e944742442c51fcbeb76554a249d/License)) - see the LICENSE file for details.
+This project is licensed under the MIT License - see the ([License](https://github.com/TVVinudev/ERC-20-BOB-Token/blob/cff6c52ab001e944742442c51fcbeb76554a249d/License)) file for details.
 - Ether: You need some ETH in your wallet to pay for gas fees when interacting with the contract.
 
 
