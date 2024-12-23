@@ -8,5 +8,30 @@ ERC-20 token standard defines a set of rules that enables easy interaction in th
 
 If a smart contract implements the following methods and events it can be called an ERC-20 token contract and, once deployed, it will be responsible to keep track of the created tokens on Ethereum.
 
+<hr/>
+
+# Contract Details 📜
+Token Name: BOB Token
+Symbol: BOB
+Decimals: 2
+Total Supply: 10000 BOB (initially minted to the deployer/admin)
+Verified and Published Contract: Etherscan
+
+# Key Features ⭐
+- ERC20 Standard: The contract follows the ERC20 standard, making it compatible with any ERC20-supporting wallet.
+- Admin Role: The contract owner (deployer) has administrative control over token minting.
+- Minting Functionality: Only the admin can mint new tokens by calling the mint() function.
+
+# Contract Address 🏷️
+- The contract is deployed and verified at:
+- Address: 0xC95e9425Fc6C807f26813154b30c67E97CB7A1e4
+
+# Prerequisites ⚙️
+To interact with the contract, you’ll need:
+
+- Metamask or any Ethereum wallet: Install a wallet to interact with the Ethereum blockchain.
+- Ether: You need some ETH in your wallet to pay for gas fees when interacting with the contract.
+
+# 
 
 
